@@ -19,14 +19,17 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime-monitor
   logoUrl: https://www.undp.org/sites/g/files/zskgke326/files/2022-04/undp-logo-blue.svg
-  name: UNDP uptime monitor
-  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: UNDP
+  introTitle: "**UNDP uptime status**"
+  introMessage: 
   navbar:
     - title: Status
       href: /uptime-monitor
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  footer: United Nations Development Programme
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
@@ -34,5 +37,3 @@ status-website:
 
 
 
-i18n:
-  footer: 
