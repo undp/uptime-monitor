@@ -41,7 +41,7 @@ status-website:
   #    href: https://github.com/$OWNER/$REPO
 
 i18n:
-  footer: [United Nations Development Programme](https://www.undp.org}
+  footer: [United Nations Development Programme](https://www.undp.org)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
