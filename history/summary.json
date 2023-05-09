@@ -76,19 +76,19 @@
     "url": "https://jobs.undp.org/cj_view_jobs.cfm",
     "icon": "https://icons.duckduckgo.com/ip3/jobs.undp.org.ico",
     "slug": "jobs-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1660,
-    "timeDay": 3119,
-    "timeWeek": 2007,
-    "timeMonth": 1660,
-    "timeYear": 1660,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1772,
+    "timeDay": 3268,
+    "timeWeek": 2180,
+    "timeMonth": 1772,
+    "timeYear": 1772,
     "dailyMinutesDown": {
-      "2023-05-09": 0
+      "2023-05-09": 8
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://procurement-notices.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/procurement-notices.undp.org.ico",
     "slug": "procurement-notices",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3597,
-    "timeDay": 4146,
-    "timeWeek": 3775,
-    "timeMonth": 3597,
-    "timeYear": 3597,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 3648,
+    "timeDay": 4249,
+    "timeWeek": 3850,
+    "timeMonth": 3648,
+    "timeYear": 3648,
     "dailyMinutesDown": {
-      "2023-05-09": 0
+      "2023-05-09": 8
     }
   },
   {
