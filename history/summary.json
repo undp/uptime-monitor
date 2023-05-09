@@ -76,36 +76,40 @@
     "url": "https://jobs.undp.org/cj_view_jobs.cfm",
     "icon": "https://icons.duckduckgo.com/ip3/jobs.undp.org.ico",
     "slug": "jobs-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1443,
-    "timeDay": 1323,
-    "timeWeek": 1592,
-    "timeMonth": 1443,
-    "timeYear": 1443,
-    "dailyMinutesDown": {}
+    "time": 1660,
+    "timeDay": 3119,
+    "timeWeek": 2007,
+    "timeMonth": 1660,
+    "timeYear": 1660,
+    "dailyMinutesDown": {
+      "2023-05-09": 0
+    }
   },
   {
     "name": "Procurement notices",
     "url": "https://procurement-notices.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/procurement-notices.undp.org.ico",
     "slug": "procurement-notices",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3508,
-    "timeDay": 3350,
-    "timeWeek": 3608,
-    "timeMonth": 3508,
-    "timeYear": 3508,
-    "dailyMinutesDown": {}
+    "time": 3597,
+    "timeDay": 4146,
+    "timeWeek": 3775,
+    "timeMonth": 3597,
+    "timeYear": 3597,
+    "dailyMinutesDown": {
+      "2023-05-09": 0
+    }
   },
   {
     "name": "Stories on exposure.co",
