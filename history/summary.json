@@ -76,10 +76,10 @@
     "url": "https://jobs.undp.org/cj_view_jobs.cfm",
     "icon": "https://icons.duckduckgo.com/ip3/jobs.undp.org.ico",
     "slug": "jobs-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1678,
@@ -87,7 +87,9 @@
     "timeWeek": 1457,
     "timeMonth": 1678,
     "timeYear": 1678,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-19": 2
+    }
   },
   {
     "name": "Procurement notices",
