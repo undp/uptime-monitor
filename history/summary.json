@@ -119,8 +119,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2124,
-    "timeDay": 3022,
-    "timeWeek": 2845,
+    "timeDay": 640,
+    "timeWeek": 2701,
     "timeMonth": 2193,
     "timeYear": 2124,
     "dailyMinutesDown": {}
@@ -148,17 +148,19 @@
     "url": "https://give.undp.org/",
     "icon": "https://icons.duckduckgo.com/ip3/give.undp.org.ico",
     "slug": "undp-giving",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1881,
-    "timeDay": 959,
-    "timeWeek": 1230,
-    "timeMonth": 1934,
-    "timeYear": 1881,
-    "dailyMinutesDown": {}
+    "time": 2099,
+    "timeDay": 5764,
+    "timeWeek": 2397,
+    "timeMonth": 2188,
+    "timeYear": 2099,
+    "dailyMinutesDown": {
+      "2023-05-30": 0
+    }
   }
 ]
