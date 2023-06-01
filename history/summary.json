@@ -112,18 +112,20 @@
     "url": "https://stories.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/stories.undp.org.ico",
     "slug": "stories-on-exposure-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2040,
-    "timeDay": 767,
-    "timeWeek": 2721,
-    "timeMonth": 2121,
-    "timeYear": 2040,
-    "dailyMinutesDown": {}
+    "time": 2010,
+    "timeDay": 554,
+    "timeWeek": 2602,
+    "timeMonth": 2085,
+    "timeYear": 2010,
+    "dailyMinutesDown": {
+      "2023-06-01": 0
+    }
   },
   {
     "name": "Transparency portal",
