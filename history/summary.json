@@ -94,19 +94,19 @@
     "url": "https://procurement-notices.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/procurement-notices.undp.org.ico",
     "slug": "procurement-notices",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3825,
-    "timeDay": 3452,
-    "timeWeek": 3812,
-    "timeMonth": 3945,
-    "timeYear": 3825,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 4297,
+    "timeDay": 14485,
+    "timeWeek": 6525,
+    "timeMonth": 4561,
+    "timeYear": 4297,
     "dailyMinutesDown": {
-      "2023-06-05": 0
+      "2023-06-05": 8
     }
   },
   {
