@@ -112,19 +112,19 @@
     "url": "https://stories.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/stories.undp.org.ico",
     "slug": "stories-on-exposure-co",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2350,
-    "timeDay": 555,
-    "timeWeek": 3023,
-    "timeMonth": 2567,
-    "timeYear": 2350,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2333,
+    "timeDay": 707,
+    "timeWeek": 2906,
+    "timeMonth": 2542,
+    "timeYear": 2333,
     "dailyMinutesDown": {
-      "2023-06-05": 0
+      "2023-06-05": 7
     }
   },
   {
