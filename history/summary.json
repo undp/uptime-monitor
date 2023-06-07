@@ -94,9 +94,9 @@
     "url": "https://procurement-notices.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/procurement-notices.undp.org.ico",
     "slug": "procurement-notices",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 6709,
     "timeMonth": 4591,
     "timeYear": 4301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-07": 0
+    }
   },
   {
     "name": "Stories on exposure.co",
@@ -119,8 +121,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2551,
-    "timeDay": 7843,
-    "timeWeek": 3845,
+    "timeDay": 1044,
+    "timeWeek": 4231,
     "timeMonth": 2846,
     "timeYear": 2551,
     "dailyMinutesDown": {}
