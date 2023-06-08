@@ -101,7 +101,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4802,
-    "timeDay": 16810,
+    "timeDay": 4032,
     "timeWeek": 9246,
     "timeMonth": 5301,
     "timeYear": 4802,
@@ -112,18 +112,20 @@
     "url": "https://stories.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/stories.undp.org.ico",
     "slug": "stories-on-exposure-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2536,
-    "timeDay": 1449,
-    "timeWeek": 4273,
-    "timeMonth": 2853,
-    "timeYear": 2536,
-    "dailyMinutesDown": {}
+    "time": 2507,
+    "timeDay": 945,
+    "timeWeek": 3074,
+    "timeMonth": 2812,
+    "timeYear": 2507,
+    "dailyMinutesDown": {
+      "2023-06-08": 0
+    }
   },
   {
     "name": "Transparency portal",
