@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.undp.org.ico",
     "slug": "main-site",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 972,
     "timeDay": 900,
     "timeWeek": 967,
     "timeMonth": 961,
     "timeYear": 972,
-    "dailyMinutesDown": {
-      "2023-06-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Design system",
@@ -87,7 +85,7 @@
     "time": 1643,
     "timeDay": 2494,
     "timeWeek": 1936,
-    "timeMonth": 1726,
+    "timeMonth": 1635,
     "timeYear": 1643,
     "dailyMinutesDown": {}
   },
@@ -105,7 +103,7 @@
     "time": 4771,
     "timeDay": 4011,
     "timeWeek": 8687,
-    "timeMonth": 5284,
+    "timeMonth": 5293,
     "timeYear": 4771,
     "dailyMinutesDown": {}
   },
@@ -114,18 +112,19 @@
     "url": "https://stories.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/stories.undp.org.ico",
     "slug": "stories-on-exposure-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "96.12%",
-    "uptimeWeek": "99.45%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.92%",
-    "time": 3415,
-    "timeDay": 11330,
-    "timeWeek": 6419,
-    "timeMonth": 3929,
-    "timeYear": 3415,
+    "time": 3379,
+    "timeDay": 10124,
+    "timeWeek": 6149,
+    "timeMonth": 3877,
+    "timeYear": 3379,
     "dailyMinutesDown": {
+      "2023-06-09": 0,
       "2023-06-08": 56
     }
   },
