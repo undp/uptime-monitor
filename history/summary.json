@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jobs.undp.org.ico",
     "slug": "jobs-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1652,
     "timeDay": 3140,
     "timeWeek": 2028,
     "timeMonth": 1741,
     "timeYear": 1652,
     "dailyMinutesDown": {
-      "2023-06-09": 0
+      "2023-06-09": 10
     }
   },
   {
@@ -96,9 +96,9 @@
     "url": "https://procurement-notices.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/procurement-notices.undp.org.ico",
     "slug": "procurement-notices",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +107,9 @@
     "timeWeek": 9206,
     "timeMonth": 5319,
     "timeYear": 4786,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-09": 0
+    }
   },
   {
     "name": "Stories on exposure.co",
