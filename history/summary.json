@@ -4,9 +4,9 @@
     "url": "https://www.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.undp.org.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1017,
     "timeMonth": 972,
     "timeYear": 980,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-09": 0
+    }
   },
   {
     "name": "Design system",
@@ -77,19 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jobs.undp.org.ico",
     "slug": "jobs-site",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1643,
     "timeDay": 2494,
     "timeWeek": 1936,
     "timeMonth": 1726,
     "timeYear": 1643,
-    "dailyMinutesDown": {
-      "2023-06-09": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Procurement notices",
@@ -97,19 +97,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/procurement-notices.undp.org.ico",
     "slug": "procurement-notices",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4771,
     "timeDay": 4011,
     "timeWeek": 8687,
     "timeMonth": 5284,
     "timeYear": 4771,
-    "dailyMinutesDown": {
-      "2023-06-09": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stories on exposure.co",
