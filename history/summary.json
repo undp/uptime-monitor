@@ -95,28 +95,26 @@
     "icon": "https://icons.duckduckgo.com/ip3/procurement-notices.undp.org.ico",
     "slug": "procurement-notices",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 5073,
     "timeDay": 7483,
     "timeWeek": 5774,
     "timeMonth": 6021,
     "timeYear": 5073,
-    "dailyMinutesDown": {
-      "2023-06-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stories on exposure.co",
     "url": "https://stories.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/stories.undp.org.ico",
     "slug": "stories-on-exposure-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.93%",
@@ -126,6 +124,7 @@
     "timeMonth": 4061,
     "timeYear": 3379,
     "dailyMinutesDown": {
+      "2023-06-21": 0,
       "2023-06-08": 56
     }
   },
