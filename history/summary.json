@@ -76,19 +76,19 @@
     "url": "https://jobs.undp.org/cj_view_jobs.cfm",
     "icon": "https://icons.duckduckgo.com/ip3/jobs.undp.org.ico",
     "slug": "jobs-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1637,
-    "timeDay": 1107,
-    "timeWeek": 1550,
-    "timeMonth": 1628,
-    "timeYear": 1637,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1632,
+    "timeDay": 1215,
+    "timeWeek": 1522,
+    "timeMonth": 1619,
+    "timeYear": 1632,
     "dailyMinutesDown": {
-      "2023-06-24": 1
+      "2023-06-24": 9
     }
   },
   {
