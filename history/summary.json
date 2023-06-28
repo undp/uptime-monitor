@@ -94,9 +94,9 @@
     "url": "https://procurement-notices.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/procurement-notices.undp.org.ico",
     "slug": "procurement-notices",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 5029,
     "timeMonth": 6084,
     "timeYear": 5000,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-28": 0
+    }
   },
   {
     "name": "Stories on exposure.co",
@@ -113,18 +115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/stories.undp.org.ico",
     "slug": "stories-on-exposure-co",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.94%",
     "time": 3729,
     "timeDay": 916,
-    "timeWeek": 5666,
+    "timeWeek": 5133,
     "timeMonth": 4480,
     "timeYear": 3729,
     "dailyMinutesDown": {
-      "2023-06-28": 8,
       "2023-06-08": 56
     }
   },
