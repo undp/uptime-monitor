@@ -132,19 +132,19 @@
     "url": "https://open.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/open.undp.org.ico",
     "slug": "transparency-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 256,
-    "timeWeek": 228,
-    "timeMonth": 283,
-    "timeYear": 296,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 298,
+    "timeDay": 340,
+    "timeWeek": 252,
+    "timeMonth": 287,
+    "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-06-29": 0
+      "2023-06-29": 8
     }
   },
   {
