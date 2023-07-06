@@ -120,8 +120,8 @@
     "uptimeYear": "99.93%",
     "time": 3263,
     "timeDay": 1391,
-    "timeWeek": 1585,
-    "timeMonth": 3817,
+    "timeWeek": 1591,
+    "timeMonth": 3687,
     "timeYear": 3263,
     "dailyMinutesDown": {
       "2023-07-03": 18,
@@ -133,9 +133,9 @@
     "url": "https://open.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/open.undp.org.ico",
     "slug": "transparency-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,7 +144,9 @@
     "timeWeek": 402,
     "timeMonth": 343,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-06": 0
+    }
   },
   {
     "name": "UNDP Giving",
