@@ -112,18 +112,19 @@
     "url": "https://stories.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/stories.undp.org.ico",
     "slug": "stories-on-exposure-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
-    "time": 3263,
-    "timeDay": 1391,
-    "timeWeek": 1591,
-    "timeMonth": 3687,
-    "timeYear": 3263,
+    "time": 3246,
+    "timeDay": 773,
+    "timeWeek": 1550,
+    "timeMonth": 3656,
+    "timeYear": 3246,
     "dailyMinutesDown": {
+      "2023-07-06": 0,
       "2023-07-03": 18,
       "2023-06-08": 56
     }
@@ -134,19 +135,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/open.undp.org.ico",
     "slug": "transparency-portal",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 308,
     "timeDay": 405,
     "timeWeek": 401,
     "timeMonth": 344,
     "timeYear": 308,
-    "dailyMinutesDown": {
-      "2023-07-06": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "UNDP Giving",
