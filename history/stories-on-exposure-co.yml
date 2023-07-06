@@ -1,7 +1,7 @@
 url: https://stories.undp.org
-status: up
-code: 200
-responseTime: 1391
-lastUpdated: 2023-07-05T23:05:55.035Z
+status: down
+code: 502
+responseTime: 154
+lastUpdated: 2023-07-06T06:50:14.066Z
 startTime: Mon Apr 24 2023 13:37:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
