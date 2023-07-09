@@ -13,7 +13,7 @@
     "time": 861,
     "timeDay": 391,
     "timeWeek": 554,
-    "timeMonth": 680,
+    "timeMonth": 682,
     "timeYear": 861,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 1590,
     "timeDay": 1731,
     "timeWeek": 1458,
-    "timeMonth": 1596,
+    "timeMonth": 1503,
     "timeYear": 1590,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 4841,
     "timeDay": 3757,
     "timeWeek": 3416,
-    "timeMonth": 4916,
+    "timeMonth": 4940,
     "timeYear": 4841,
     "dailyMinutesDown": {}
   },
@@ -112,19 +112,19 @@
     "url": "https://stories.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/stories.undp.org.ico",
     "slug": "stories-on-exposure-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 3249,
     "timeDay": 918,
     "timeWeek": 2437,
-    "timeMonth": 3135,
+    "timeMonth": 3133,
     "timeYear": 3249,
     "dailyMinutesDown": {
-      "2023-07-09": 7,
+      "2023-07-09": 0,
       "2023-07-03": 18,
       "2023-06-08": 56
     }
