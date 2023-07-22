@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 856,
-    "timeDay": 1068,
+    "timeDay": 1295,
     "timeWeek": 842,
     "timeMonth": 728,
     "timeYear": 856,
@@ -76,10 +76,10 @@
     "url": "https://jobs.undp.org/cj_view_jobs.cfm",
     "icon": "https://icons.duckduckgo.com/ip3/jobs.undp.org.ico",
     "slug": "jobs-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1580,
@@ -87,16 +87,18 @@
     "timeWeek": 1458,
     "timeMonth": 1436,
     "timeYear": 1580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-22": 2
+    }
   },
   {
     "name": "Procurement notices",
     "url": "https://procurement-notices.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/procurement-notices.undp.org.ico",
     "slug": "procurement-notices",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +107,9 @@
     "timeWeek": 3811,
     "timeMonth": 3966,
     "timeYear": 4730,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-22": 0
+    }
   },
   {
     "name": "Stories on exposure.co",
@@ -121,7 +125,7 @@
     "time": 2869,
     "timeDay": 715,
     "timeWeek": 1995,
-    "timeMonth": 2523,
+    "timeMonth": 2418,
     "timeYear": 2869,
     "dailyMinutesDown": {
       "2023-07-21": 18,
