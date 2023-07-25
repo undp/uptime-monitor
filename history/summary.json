@@ -94,9 +94,9 @@
     "url": "https://procurement-notices.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/procurement-notices.undp.org.ico",
     "slug": "procurement-notices",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 4031,
     "timeMonth": 4001,
     "timeYear": 4721,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-25": 0
+    }
   },
   {
     "name": "Stories on exposure.co",
@@ -115,13 +117,13 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "98.66%",
-    "uptimeWeek": "98.36%",
+    "uptimeWeek": "99.00%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.79%",
     "time": 2919,
-    "timeDay": 5466,
-    "timeWeek": 2614,
-    "timeMonth": 2184,
+    "timeDay": 3230,
+    "timeWeek": 2618,
+    "timeMonth": 2116,
     "timeYear": 2919,
     "dailyMinutesDown": {
       "2023-07-25": 19,
@@ -162,12 +164,12 @@
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1715,
     "timeDay": 431,
     "timeWeek": 1297,
-    "timeMonth": 1524,
+    "timeMonth": 1306,
     "timeYear": 1715,
     "dailyMinutesDown": {
       "2023-06-25": 99,
