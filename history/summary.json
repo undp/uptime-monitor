@@ -58,19 +58,19 @@
     "url": "https://hdr.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/hdr.undp.org.ico",
     "slug": "human-development-report",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 172,
-    "timeWeek": 397,
-    "timeMonth": 297,
-    "timeYear": 310,
+    "time": 313,
+    "timeDay": 492,
+    "timeWeek": 449,
+    "timeMonth": 313,
+    "timeYear": 313,
     "dailyMinutesDown": {
-      "2023-10-25": 1
+      "2023-10-25": 7
     }
   },
   {
