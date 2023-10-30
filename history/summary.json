@@ -24,9 +24,9 @@
     "slug": "design-system",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 366,
     "timeDay": 210,
@@ -34,7 +34,7 @@
     "timeMonth": 318,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2023-10-30": 2
+      "2023-10-30": 10
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://procurement-notices.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/procurement-notices.undp.org.ico",
     "slug": "procurement-notices",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.89%",
-    "time": 5480,
-    "timeDay": 4091,
-    "timeWeek": 5397,
-    "timeMonth": 6898,
-    "timeYear": 5480,
+    "time": 5477,
+    "timeDay": 4406,
+    "timeWeek": 5321,
+    "timeMonth": 6854,
+    "timeYear": 5477,
     "dailyMinutesDown": {
-      "2023-10-30": 0,
+      "2023-10-30": 8,
       "2023-10-21": 136,
       "2023-09-20": 15,
       "2023-09-19": 62,
@@ -177,9 +177,9 @@
     "slug": "undp-giving",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.95%",
     "time": 1586,
     "timeDay": 1057,
@@ -187,7 +187,7 @@
     "timeMonth": 1892,
     "timeYear": 1586,
     "dailyMinutesDown": {
-      "2023-10-30": 0,
+      "2023-10-30": 8,
       "2023-06-25": 99,
       "2023-05-31": 25
     }
