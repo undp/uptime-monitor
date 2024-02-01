@@ -62,9 +62,9 @@
     "slug": "human-development-report",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 296,
     "timeDay": 187,
@@ -72,7 +72,7 @@
     "timeMonth": 274,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2024-02-01": 0
+      "2024-02-01": 4
     }
   },
   {
@@ -191,7 +191,7 @@
     "timeMonth": 1131,
     "timeYear": 1550,
     "dailyMinutesDown": {
-      "2024-02-01": 5,
+      "2024-02-01": 9,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
