@@ -4,9 +4,9 @@
     "url": "https://www.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.undp.org.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 660,
     "timeMonth": 845,
     "timeYear": 869,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-21": 0
+    }
   },
   {
     "name": "Design system",
@@ -182,18 +184,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/give.undp.org.ico",
     "slug": "undp-giving",
     "status": "down",
-    "uptime": "67.16%",
+    "uptime": "67.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.16%",
+    "uptimeYear": "67.05%",
     "time": 1535,
     "timeDay": 833,
     "timeWeek": 1442,
     "timeMonth": 1254,
     "timeYear": 1535,
     "dailyMinutesDown": {
-      "2024-02-21": 8,
+      "2024-02-21": 682,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
