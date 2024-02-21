@@ -4,19 +4,19 @@
     "url": "https://www.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.undp.org.ico",
     "slug": "main-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 869,
-    "timeDay": 891,
-    "timeWeek": 660,
-    "timeMonth": 845,
-    "timeYear": 869,
+    "time": 872,
+    "timeDay": 1213,
+    "timeWeek": 769,
+    "timeMonth": 866,
+    "timeYear": 872,
     "dailyMinutesDown": {
-      "2024-02-21": 0
+      "2024-02-21": 7
     }
   },
   {
@@ -105,10 +105,10 @@
     "url": "https://procurement-notices.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/procurement-notices.undp.org.ico",
     "slug": "procurement-notices",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 5010,
@@ -117,6 +117,7 @@
     "timeMonth": 3429,
     "timeYear": 5010,
     "dailyMinutesDown": {
+      "2024-02-21": 1,
       "2023-11-06": 21,
       "2023-10-21": 136,
       "2023-09-20": 15,
@@ -163,9 +164,9 @@
     "url": "https://open.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/open.undp.org.ico",
     "slug": "transparency-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
@@ -175,6 +176,7 @@
     "timeMonth": 320,
     "timeYear": 306,
     "dailyMinutesDown": {
+      "2024-02-21": 0,
       "2024-02-15": 42
     }
   },
@@ -195,7 +197,7 @@
     "timeMonth": 1254,
     "timeYear": 1535,
     "dailyMinutesDown": {
-      "2024-02-21": 682,
+      "2024-02-21": 692,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
