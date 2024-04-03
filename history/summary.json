@@ -42,10 +42,10 @@
     "url": "https://feature.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/feature.undp.org.ico",
     "slug": "featured-stories",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 366,
@@ -53,7 +53,9 @@
     "timeWeek": 211,
     "timeMonth": 254,
     "timeYear": 366,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-03": 1
+    }
   },
   {
     "name": "Human development report",
@@ -62,9 +64,9 @@
     "slug": "human-development-report",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 325,
     "timeDay": 2605,
@@ -72,7 +74,6 @@
     "timeMonth": 628,
     "timeYear": 325,
     "dailyMinutesDown": {
-      "2024-04-03": 10,
       "2024-02-01": 903
     }
   },
@@ -186,18 +187,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/give.undp.org.ico",
     "slug": "undp-giving",
     "status": "down",
-    "uptime": "58.90%",
+    "uptime": "58.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.90%",
+    "uptimeYear": "58.89%",
     "time": 1500,
     "timeDay": 1003,
     "timeWeek": 993,
     "timeMonth": 1272,
     "timeYear": 1500,
     "dailyMinutesDown": {
-      "2024-04-03": 611,
+      "2024-04-03": 639,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
