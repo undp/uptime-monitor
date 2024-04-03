@@ -42,19 +42,19 @@
     "url": "https://feature.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/feature.undp.org.ico",
     "slug": "featured-stories",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 120,
-    "timeWeek": 211,
-    "timeMonth": 254,
-    "timeYear": 366,
+    "time": 365,
+    "timeDay": 84,
+    "timeWeek": 191,
+    "timeMonth": 247,
+    "timeYear": 365,
     "dailyMinutesDown": {
-      "2024-04-03": 1
+      "2024-04-03": 7
     }
   },
   {
@@ -198,7 +198,7 @@
     "timeMonth": 1272,
     "timeYear": 1500,
     "dailyMinutesDown": {
-      "2024-04-03": 639,
+      "2024-04-03": 648,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
