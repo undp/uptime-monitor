@@ -44,18 +44,16 @@
     "slug": "featured-stories",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 365,
     "timeDay": 84,
     "timeWeek": 191,
     "timeMonth": 247,
     "timeYear": 365,
-    "dailyMinutesDown": {
-      "2024-04-03": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Human development report",
@@ -82,10 +80,10 @@
     "url": "https://jobs.undp.org/cj_view_jobs.cfm",
     "icon": "https://icons.duckduckgo.com/ip3/jobs.undp.org.ico",
     "slug": "jobs-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 1731,
@@ -94,6 +92,7 @@
     "timeMonth": 2509,
     "timeYear": 1731,
     "dailyMinutesDown": {
+      "2024-04-03": 1,
       "2024-03-05": 22,
       "2023-11-22": 27,
       "2023-09-04": 46,
@@ -198,7 +197,7 @@
     "timeMonth": 1272,
     "timeYear": 1500,
     "dailyMinutesDown": {
-      "2024-04-03": 648,
+      "2024-04-03": 679,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
