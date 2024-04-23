@@ -4,19 +4,19 @@
     "url": "https://www.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.undp.org.ico",
     "slug": "main-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 884,
-    "timeDay": 932,
-    "timeWeek": 973,
-    "timeMonth": 892,
-    "timeYear": 884,
+    "time": 883,
+    "timeDay": 755,
+    "timeWeek": 910,
+    "timeMonth": 877,
+    "timeYear": 883,
     "dailyMinutesDown": {
-      "2024-04-23": 2
+      "2024-04-23": 8
     }
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://open.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/open.undp.org.ico",
     "slug": "transparency-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -177,6 +177,7 @@
     "timeMonth": 555,
     "timeYear": 407,
     "dailyMinutesDown": {
+      "2024-04-23": 0,
       "2024-02-22": 16,
       "2024-02-15": 42
     }
@@ -198,7 +199,7 @@
     "timeMonth": 1217,
     "timeYear": 1487,
     "dailyMinutesDown": {
-      "2024-04-23": 897,
+      "2024-04-23": 906,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
