@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 883,
-    "timeDay": 652,
+    "timeDay": 892,
     "timeWeek": 916,
     "timeMonth": 892,
-    "timeYear": 883,
+    "timeYear": 884,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 395,
-    "timeDay": 4306,
+    "timeDay": 547,
     "timeWeek": 1318,
     "timeMonth": 772,
-    "timeYear": 395,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2023-10-30": 27
     }
@@ -52,7 +52,7 @@
     "timeDay": 190,
     "timeWeek": 329,
     "timeMonth": 270,
-    "timeYear": 360,
+    "timeYear": 359,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,7 @@
     "timeDay": 528,
     "timeWeek": 416,
     "timeMonth": 427,
-    "timeYear": 323,
+    "timeYear": 321,
     "dailyMinutesDown": {
       "2024-02-01": 903
     }
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1753,
-    "timeDay": 2844,
+    "timeDay": 1455,
     "timeWeek": 2282,
     "timeMonth": 2203,
-    "timeYear": 1753,
+    "timeYear": 1754,
     "dailyMinutesDown": {
       "2024-03-05": 22,
       "2023-11-22": 27,
@@ -104,18 +104,19 @@
     "url": "https://procurement-notices.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/procurement-notices.undp.org.ico",
     "slug": "procurement-notices",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 5088,
-    "timeDay": 8157,
+    "timeDay": 4416,
     "timeWeek": 6010,
     "timeMonth": 5758,
-    "timeYear": 5088,
+    "timeYear": 5091,
     "dailyMinutesDown": {
+      "2024-04-24": 0,
       "2024-03-14": 16,
       "2023-11-06": 21,
       "2023-10-21": 136,
@@ -141,7 +142,7 @@
     "timeDay": 619,
     "timeWeek": 593,
     "timeMonth": 580,
-    "timeYear": 2088,
+    "timeYear": 2082,
     "dailyMinutesDown": {
       "2023-11-17": 96,
       "2023-08-13": 17,
@@ -170,10 +171,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 454,
-    "timeDay": 4925,
+    "timeDay": 216,
     "timeWeek": 2132,
     "timeMonth": 1044,
-    "timeYear": 454,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2024-02-22": 16,
       "2024-02-15": 42
@@ -185,18 +186,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/give.undp.org.ico",
     "slug": "undp-giving",
     "status": "down",
-    "uptime": "55.58%",
+    "uptime": "55.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.53%",
+    "uptimeYear": "55.30%",
     "time": 1486,
     "timeDay": 1141,
     "timeWeek": 1159,
     "timeMonth": 1194,
-    "timeYear": 1486,
+    "timeYear": 1488,
     "dailyMinutesDown": {
-      "2024-04-24": 8,
+      "2024-04-24": 1223,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
