@@ -4,19 +4,19 @@
     "url": "https://www.undp.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.undp.org.ico",
     "slug": "main-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 885,
-    "timeDay": 585,
-    "timeWeek": 739,
-    "timeMonth": 887,
+    "timeDay": 721,
+    "timeWeek": 753,
+    "timeMonth": 886,
     "timeYear": 886,
     "dailyMinutesDown": {
-      "2024-05-23": 0
+      "2024-05-23": 7
     }
   },
   {
@@ -205,7 +205,7 @@
     "timeMonth": 1174,
     "timeYear": 1419,
     "dailyMinutesDown": {
-      "2024-05-23": 817,
+      "2024-05-23": 823,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
