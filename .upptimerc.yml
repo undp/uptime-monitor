@@ -19,8 +19,8 @@ sites:
     url: https://stories.undp.org
   - name: Transparency portal
     url: https://open.undp.org
-  - name: UNDP Giving
-    url: https://give.undp.org/
+#  - name: UNDP Giving
+#    url: https://give.undp.org/
 
 assignees: # Users to assign downtime issues (optional)
   - Jura
