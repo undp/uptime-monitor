@@ -1,7 +1,7 @@
 url: https://jobs.undp.org/cj_view_jobs.cfm
-status: up
-code: 200
-responseTime: 1241
-lastUpdated: 2024-10-18T23:06:08.364Z
+status: down
+code: 503
+responseTime: 4739
+lastUpdated: 2024-10-19T06:35:31.807Z
 startTime: 2023-04-24T13:36:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
