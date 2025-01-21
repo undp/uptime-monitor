@@ -1,7 +1,7 @@
 url: https://procurement-notices.undp.org
-status: down
-code: 503
-responseTime: 5608
-lastUpdated: 2025-01-21T09:44:37.910Z
+status: up
+code: 200
+responseTime: 1331
+lastUpdated: 2025-01-21T09:51:35.402Z
 startTime: 2023-04-24T13:36:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
