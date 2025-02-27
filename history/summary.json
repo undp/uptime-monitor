@@ -16,7 +16,8 @@
     "timeMonth": 353,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2025-02-26": 1431,
+      "2025-02-27": 11,
+      "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -178,17 +179,16 @@
     "slug": "stories-on-exposure-co",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 714,
     "timeDay": 432,
     "timeWeek": 531,
     "timeMonth": 639,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2025-02-26": 7,
       "2024-08-25": 79,
       "2024-06-27": 49
     }
